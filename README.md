@@ -1,5 +1,8 @@
 ## 추후 Update
 
+https://xoft.tistory.com/48
+
+
 
 # 3D Gaussian Splatting for Real-Time Radiance Field Rendering
 Bernhard Kerbl*, Georgios Kopanas*, Thomas Leimkühler, George Drettakis (* indicates equal contribution)<br>
